@@ -1,5 +1,4 @@
 # Attack-the-Pages
-مرحبًا أصدقائي هذه الأداة عبارة عن هجوم على صفحات الويب مثل هجوم DDoS هذه أوامر تثبيت
 
 
 
@@ -16,10 +15,11 @@
 
 |_____| |_____/ |_|  \_\ |_____| |_____| /_____/ \_____/ |_____/ 
 
+Hello my friends
 
+This tool is an attack on web pages such as a DDoS attack
 
 How to install
-
 
 apt update && apt upgrade
 
@@ -31,4 +31,4 @@ chmod +x ebrees.py
 
 python ebrees.py
 
-done..1
+done..!
